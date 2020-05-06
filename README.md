@@ -28,7 +28,7 @@ League of Legends (LOL) is a multiplayer online battle arena video game develope
 
 - ML models(KNN, Random Forest, Neural Network)
 
-- [code](code/Data process and ML.ipynb)
+- [code](LeagueOfLegends_winning_predictions/code/Data process and ML.ipynb)
 
 # Just for fun!
 
