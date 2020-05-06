@@ -7,7 +7,7 @@
 
 # Introduction
 
-League of Legends (LoL) is a multiplayer online battle arena video game developed and published by Riot Games, which is a multiplayer online battle arena (MOBA) game in the three-dimensional isometric perspective. In all game modes, players control characters called champions, chosen or assigned every match, who each have a set of unique abilities. There are 10 players divided into 2 teams to compete to each other.
+League of Legends (LOL) is a multiplayer online battle arena video game developed and published by Riot Games, which is a multiplayer online battle arena (MOBA) game in the three-dimensional isometric perspective. In all game modes, players control characters called champions, chosen or assigned every match, who each have a set of unique abilities. There are 10 players divided into 2 teams to compete to each other.
 
 
 # Dataset 
@@ -28,7 +28,7 @@ League of Legends (LoL) is a multiplayer online battle arena video game develope
 
 - ML models(KNN, Random Forest, Neural Network)
 
-- [code]( Data process and ML.ipynb )
+- [code](code/Data process and ML.ipynb)
 
 # Just for fun!
 
