@@ -22,9 +22,9 @@ League of Legends (LOL) is a multiplayer online battle arena video game develope
 
 # Methodology
 
-- Combine gaming/champ/spell data and extract other information >>> 
+- Combine gaming/champ/spell data and extract other information 
 
-- Exploration of the data >>>> 
+- Exploration of the data 
 
 - ML models(KNN, Random Forest, Neural Network)
 
